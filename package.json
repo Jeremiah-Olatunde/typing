@@ -1,0 +1,23 @@
+{
+  "name": "typing-tracker",
+  "version": "0.0.0",
+  "description": "tool for training and tracking typing speed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeremiah-Olatunde/typing-tracker.git"
+  },
+  "keywords": [
+    "typing",
+    "tracker"
+  ],
+  "author": "Jesuseun Jeremiah Olatunde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeremiah-Olatunde/typing-tracker/issues"
+  },
+  "homepage": "https://github.com/Jeremiah-Olatunde/typing-tracker#readme"
+}
